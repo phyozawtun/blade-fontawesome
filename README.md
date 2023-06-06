@@ -1,3 +1,11 @@
+# Roadmap
+
+- Add Blade Directives
+- Add Tabler Icons
+- Add Bootstrap Icon
+- Add Father Icons
+- Add Material Icons
+
 # Blade Font Awesome
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
@@ -29,7 +37,7 @@ Please see the [upgrade guide](UPGRADE.md) for information on how to upgrade to 
 Via Composer
 
 ```bash
-composer require owenvoke/blade-fontawesome
+composer require phyozawtun/blade-fontawesome
 ```
 
 ## Configuration
